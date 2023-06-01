@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟Hello i Am RV<br><br>⚙️ Junior Backend Developer 💠
+🌟Hello I Am RV<br><br>⚙️ Junior Backend Developer 💠
 
 ## 🌐Socials
  <p><a href="https://discord.gg/ecocommunity">
