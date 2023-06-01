@@ -17,5 +17,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dev-RealRV&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
-### Discord Status
+### 🔧 Discord Status
 [![Discord Presence](https://lanyard.cnrad.dev/api/839455614568103937)](https://discord.com/users/839455614568103937)
